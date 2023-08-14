@@ -1,1 +1,1 @@
-loadstring(game:HttpGet(“https://raw.githubusercontent.com/NougatBitz/ArsenalHaxx/master/Script”))();
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ASkca12/ScriptApoloHub/main/Main.lua"))()
